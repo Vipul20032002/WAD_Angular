@@ -1,0 +1,111 @@
+{
+  "user": [
+    {
+      "userid": "Vipul435",
+      "name": "Vipul Nagrani",
+      "mail": "vnagrani61@gmail.com",
+      "phone": "7758062188",
+      "password": "Vipul@2021",
+      "gender": "1",
+      "id": 1
+    },
+    {
+      "userid": "Vipul123",
+      "name": "Vipul Nagrani",
+      "mail": "vnagrani61@gmail.com",
+      "phone": "7758062188",
+      "password": "Vipul_N@2021",
+      "gender": "1",
+      "id": 2
+    },
+    {
+      "userid": "UserName123",
+      "name": "User Name",
+      "mail": "user_name@username.com",
+      "phone": "7758062188",
+      "password": "User@1234",
+      "gender": "1",
+      "id": 3
+    },
+    {
+      "id": "Vipul123",
+      "name": "Vipul ",
+      "mail": "vnagrani71@gmail.com",
+      "phone": "9284779213",
+      "password": "Vipul@2021",
+      "gender": "1"
+    },
+    {
+      "id": "Rushi_572",
+      "name": "Rushikesh",
+      "mail": "rushi@gmail.com",
+      "phone": "8623333332",
+      "password": "Vipul@123",
+      "gender": "1"
+    },
+    {
+      "id": "Rushi_672",
+      "name": "Rushikesh Borgaonkar",
+      "mail": "20143005@gmail.com",
+      "phone": "9764982369",
+      "password": "Rushi@123",
+      "gender": "1"
+    },
+    {
+      "id": "Borgaonkar_1234",
+      "name": "RushiBorgaonkar",
+      "mail": "rushi@gmail.com",
+      "phone": "8623833332",
+      "password": "@Mydrem2002",
+      "gender": "1"
+    },
+    {
+      "id": "Rushikesh_2002",
+      "name": "RushikeshBorgaonkar",
+      "mail": "rushi@gmail.com",
+      "phone": "8623833332",
+      "password": "Rushi@1234",
+      "gender": "1"
+    },
+    {
+      "id": "Anushka345",
+      "name": "Anushka Kulkarni",
+      "mail": "nush@gmail.com",
+      "phone": "8989955678",
+      "password": "Anushka@123",
+      "gender": "2"
+    },
+    {
+      "id": "Nush456",
+      "name": "ANushka Kulkarni",
+      "mail": "anu@tmial.com",
+      "phone": "1234567899",
+      "password": "Anushka@123",
+      "gender": "2"
+    },
+    {
+      "id": "anushka",
+      "name": "ANuShka",
+      "mail": "anu@gmail.com",
+      "phone": "7548859564",
+      "password": "Anushka@75803",
+      "gender": "2"
+    },
+    {
+      "id": "nushka",
+      "name": "Kulkarni Anushka",
+      "mail": "anu77@gmail.com",
+      "phone": "1234554321",
+      "password": "Anushka$3355",
+      "gender": "2"
+    },
+    {
+      "id": "anushka2023",
+      "name": "Anushka Kulkarni",
+      "mail": "nush@gmail.com",
+      "phone": "8855774652",
+      "password": "Kabir@1134",
+      "gender": "2"
+    }
+  ]
+}
